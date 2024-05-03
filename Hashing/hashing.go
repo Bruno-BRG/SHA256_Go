@@ -1,5 +1,7 @@
 package main
 
+/*teste*/
+
 import (
 	"bufio"
 	"crypto/sha256"
